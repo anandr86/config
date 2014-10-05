@@ -1,7 +1,0 @@
-(server-start)
-(menu-bar-mode -1)
-(tool-bar-mode -1)
-(ido-mode 1)
-(setq inhibit-startup-message t)
-(set-default-font "Consolas 14")
-(global-set-key (kbd "C-x C-a") 'align)
